@@ -644,4 +644,3 @@ c = c % n1
 print(hex(pow(c,d,n1))[2:].decode('hex'))
 #flag{G0oDJ0b_S0_SimPle_ChaMd5}
 ~~~
-
